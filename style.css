@@ -1,0 +1,23 @@
+body{
+    display: flex;
+}
+#left-div{
+    height: 98vh;
+    width: 50%;
+        background-color: aqua;
+    float: left;
+}
+
+#right-div{
+    height: 50vh;
+    width: 50vh;
+   float: right;
+   align-items:flex-start
+   
+}
+
+td{
+    margin-left: 1.2rem;
+    align-content: center;
+    text-align: center;
+}
